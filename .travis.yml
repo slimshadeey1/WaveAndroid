@@ -4,7 +4,7 @@ jdk:
 - openjdk6
 notifications:
   slack:
-    secure: nSYz9U1N/Ejodb/vxHjK8RkCjyTlGxxiZVKSVsAfhq6CRzjtWT0jKw1jyt9Iv5nE3gV30jhLdYBj3QQcw98N/ZFQ0KbVrEocgRj0pTXx2w6bvU9Dr5N+b82ZE484f8m5TYI3e06Xan2lSMRRIzyxMEqRW9I73crNxvuI3ZXdZSg=
+    secure: WMZoKrBtPy/ORNIRSJ0cc/sIIAEeQVJitR/GM5GkCVA+NvNDH8aLk0u1DwvnV+LmwwBdxxI6VvPKcKkrp2cK18wbuSt3fr7j2pDU2l3lptFgfepqWIeQ5Q1X+LFn0Kzas+W/XJQtWT/2H9Bx44XzTRMKPevxIGLMU1lOpKVjHZs=
 deploy:
   provider: releases
   api_key:
